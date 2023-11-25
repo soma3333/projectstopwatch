@@ -1,0 +1,20 @@
+.time{
+    height: 50px;
+    width: 80px;
+    border-radius: 10px;
+    color: antiquewhite;
+    background-color: rgb(12, 39, 39);
+    border: 2px solid black;
+}
+
+#timedisplay{
+    font-size: 75px;
+    color: blue;
+}
+#timecontainer{
+    text-align: center;
+    border-radius: 15px;
+    background-color: rgb(42, 165, 61);
+}
+
+
